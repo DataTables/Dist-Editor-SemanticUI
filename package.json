@@ -1,0 +1,20 @@
+{
+  "name": "datatables.net-editor-se",
+  "version": "1.6.3",
+  "description": "DataTables Editor - Semantic UI integration",
+  "main": "js/editor.semanticui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:DataTables/Dist-Editor-SemanticUI.git"
+  },
+  "keywords": [
+    "DataTables",
+    "Editor",
+    "Semantic UI"
+  ],
+  "author": "SpryMedia Ltd",
+  "license": "SEE LICENSE IN License.md"
+}
