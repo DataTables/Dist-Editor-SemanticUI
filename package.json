@@ -1,6 +1,6 @@
 {
   "name": "datatables.net-editor-se",
-  "version": "1.6.3",
+  "version": "1.6.5",
   "description": "DataTables Editor - Semantic UI integration",
   "main": "js/editor.semanticui.js",
   "scripts": {
@@ -15,6 +15,9 @@
     "Editor",
     "Semantic UI"
   ],
+  "dependencies": {
+    "datatables.net-editor": "^1.6.5"
+  },
   "author": "SpryMedia Ltd",
   "license": "SEE LICENSE IN License.md"
 }
