@@ -1,4 +1,4 @@
-/*! Bootstrap integration for DataTables Editor
+/*! Semantic UI integration for DataTables Editor
  * ©SpryMedia Ltd - datatables.net/license
  */
 
